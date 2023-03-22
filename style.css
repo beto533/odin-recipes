@@ -1,0 +1,50 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color:rgb(52, 9, 9);
+    padding: 20px;
+}
+.page-content {
+    background-color: burlywood;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+.top {
+    text-align: center;
+}
+.nav {
+    text-align: left;
+}
+.heading {
+    font-family: Impact, serif;
+}
+.h2size {
+    font-size: 40px;
+    background-color: blanchedalmond;
+    margin: auto;
+    text-align: center;
+    padding: 3px;
+}
+.ingredients, .steps {
+    text-align: center;
+}
+h1 {
+    font-size: 60px;
+    background-color: blanchedalmond;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+hr {
+    height: 2px;
+    background-color: rgb(52, 9, 9);
+    border-color: rgb(52, 9, 9);
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
